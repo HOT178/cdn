@@ -1,0 +1,57 @@
+
+
+
+
+@charset "utf-8";a,blockquote，th,body,dd,div,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,input,li,ol,p,pre,td,textarea,ul{margin:0;padding:0}
+table{border-collapse:collapse;border-spacing:0}
+fieldset,img{border:0}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:400}
+li,ol,ul{list-style:none}
+capation,th{text-align:left}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:400}
+a{text-decoration:none;cursor:pointer}
+a:hover{text-decoration:none}
+a:focus{border:none;outline:0}
+html{height:100%}
+body{letter-spacing:.05em;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",STHeiti,"Microsoft Yahei",Tahoma,Simsun,sans-serif;position:relative;background-color:#efefef;max-width:640px;min-width:320px;margin:0 auto;font-family:arial,"微软雅黑",STHeiti,"Microsoft Yahei",tahoma,'Hiragino Sans GB',sans-serif}
+.fl{float:left}
+.fr{float:right}
+.br5{border-radius:5px}
+.clear{clear:both}
+.mt10{margin-top:.8vh}
+.brt2{border-top:2px solid #b2b2b2!important}
+.white{background:#fff}
+h2{color:red}
+.index_tit1 img{margin:0 auto}
+.body_area{margin:0 0 0;overflow:hidden;padding-bottom:44px;min-height:100%}
+.inbg{background:#fff;border-top:1px solid #dcdcdc;border-bottom:1px solid #dcdcdc;padding:0 0}
+
+.index_tit{height:30px;line-height:30px;width:98%;margin:0 auto;margin-bottom:10px}
+.index_tit i{display:block;width:25px;height:25px;float:left;margin-right:10px;margin-top:3px}
+.index_tit a{float:right;color:#666;font-size:14px}
+.index_tit font{color:#333;font-size:16px}
+.inicon_hot{background:url(https://www.y918.vip/images/inicon_hot.png) no-repeat;background-size:100% 100%}
+
+#index_hot{width:98%;margin:0 auto}
+#index_hot tr{height:85px;border-top:1px solid #e1e6ec}
+#index_hot th{text-align:center;padding:8px 0}
+#index_hot td{padding:8px 0}
+#index_hot th img{border-radius:15px;width:15vw;height:15vw;max-width:70px;max-height:70px}
+#index_hot td h3{font-size:14px;width:100%}
+#index_hot td span{color:#666;font-size:12px;height:23px;line-height:23px;float:left}
+#index_hot td span font{color:#14b9c8;max-width:56px;overflow:hidden;display:block;float:left;height:23px;line-height:23px;margin-right:5px}
+#index_hot td i{color:#666;padding:0 5px;float:left}
+#index_hot td p{width:100%;font-size:12px;color:#666;height:20px;line-height:20px;overflow:hidden}
+#index_hot td a{display:block;color:#fff;background:#14b4c4;padding:3px 10px;font-size:14px;float:right;border-radius:5px}
+#index_hot table,#index_newst table,#index_tj table{width:100%}
+@media screen and (max-width:750px){html{background:#efefef}
+}
+@media screen and (min-width:750px){body{min-height:100%}
+.modal-backdrop{position:absolute}
+}
+@media screen and (max-width:320px){#share ul li font{font-size:.9em!important}
+#index_tj td div h3{width:35%}
+.logo img{width:95px;height:42px;margin-top:3px}
+.hdlb td p{width:200px!important}
+.hdlb td a{padding:5px 10px!important}
+}
